@@ -1,0 +1,240 @@
+ /*
+ Author:Parag Mahajan
+ Title: bike-style.css
+ */
+ 
+ 
+ header{
+ text-align:center;
+ height:270px;background:url(images/bike.jpg);
+ color:#1612ED;
+ margin-top:-32px;
+ font-size:150%
+ }
+ 
+ section h1,h2{
+ padding-top:22px;
+ }
+ 
+ p{
+ margin:15px;
+ }
+ 
+ footer{
+ padding:40px;
+ text-align:center;
+ }
+ 
+ 
+ caption{
+ font-size:120%;
+ font-weight:bold;
+ }
+ 
+ nav{
+ padding:12px;
+ }
+ 
+ table {
+ border-spacing: 19px;
+ }
+
+ figcaption{
+ text-align:center;
+ font-family: Arial;
+ }
+ 
+ article{
+ padding:12px;
+ }
+ 
+ nav .selected,nav a:hover
+{
+  background:#65a9d7;
+  color:#fff;
+  text-decoration:none;
+}
+
+ol .enhancement{
+padding:42px;
+
+
+}
+
+nav a {
+float:left;
+width : 7em;
+text-decoration : none;
+color : white;
+background-color : #28597a;
+padding : 0.2em 0.6em;
+font-weight:bold;
+text-align:center;
+position : relative; 
+border:1px solid white;
+top :10px;
+}
+
+ 
+ h2.title{
+ text-align:center;
+ }
+ 
+ #main{
+ margin:0px auto;
+ width:1000px;
+ }
+
+ #page {
+ float:left;
+ width:100%;
+ border:1px solid black;
+ }
+ 
+ #content{
+ float:left;
+ width:90%;
+ }
+ 
+ #uname{
+ text-align:right;
+ font-size:150%;
+ }
+ 
+ #stdno{
+ text-align:right;
+ font-family: Arial, Sans-Serif;
+ }
+ 
+ #uphoto{
+ margin-left:32px;
+ padding:10px;
+ height:120px;
+ width:120px;
+ vertical-align:text-top;
+ border: 4px groove #808080;
+ }
+ 
+ #course{
+ margin-left:32px;
+ color:#E2571F;
+ }
+ 
+ #page-select{
+ margin-left:40%;
+ text-align:left;
+ width:30%;
+ }
+ 
+ #page-customer{
+ margin-left:26%;
+ text-align:left;
+ width:60%;
+ }
+ 
+ #page-purchase{
+ margin-left:30%;
+ text-align:left;
+ width:60%;
+ }
+ 
+ .mytimetable{
+ margin-left:auto;
+ margin-right:auto;
+ background:rgb(219,201,201);
+ border:1px solid black;
+ border-collapse:collapse;
+ }
+ 
+ .mytimetable th, .mytimetable td{
+ text-align:left;
+ border:1px solid black;
+ padding:12px;
+ }
+
+ .title{
+ margin:15px;color:green;
+ }
+ 
+ .product-links{
+  margin-left:32px;
+ }
+
+ .text-content{
+ float:left;
+ width:30%;
+ border:1px solid black;
+ margin-left:140px;
+ }
+ 
+ .text-content-1{
+ float:left;
+ width:40%;
+ margin-left:20px;
+ }
+ 
+ .clear{
+ clear:both;
+ }
+ 
+ .button {
+   border-top: 1px solid #96d1f8;
+   background: blue;
+   padding: 5px 20px;
+   color: white;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   margin-left:16px;
+   }
+   
+.button:hover {
+   border-top-color: #285970;
+   background: #285970;
+   color: #ccc;
+   }
+   
+
+.nav-button{
+  border-top: 1px solid #96d1f8;
+   background: blue;
+   padding: 5px 20px;
+   color: white;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   margin-left:6px;
+   margin-top:3px;
+   display:inline-block;
+   border-radius:8px;
+   }
+
+.vendor_logout{
+float:right;
+padding:5px;
+margin-top:-33px;
+}
+
+.vendor_heading{
+margin-left:40%;
+color:blue;
+}
+
+.login_form{
+margin-top:5%;
+}   
+   
+#filter-form
+{
+	margin-left:40%;
+}
+
+#f_cust_id
+{
+	margin-left:7.4%;
+}
+
+#f_date
+{
+	margin-left:2%;
+}
